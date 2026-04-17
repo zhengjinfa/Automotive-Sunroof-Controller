@@ -6,6 +6,10 @@ AEC-Q100 grade sunroof controller solution for OEM and Tier1 suppliers
 🇨🇳 China Local Car Grade Alternative | Import Chip Replacement
 
 
+<img width="572" height="599" alt="9712a0c0b89a16b32f3b0a7eed4b18cd" src="https://github.com/user-attachments/assets/22f8160e-ec35-4956-b316-2c9ec666348a" />
+
+
+
 🔴 Business Focus: Only for OEM/ODM Projects, Tier 1 Suppliers, and Automotive Head Units seeking cost reduction and supply chain independence.
 
 🔴 Current Status: Mass Production Ready, Validated on Vehicle.
